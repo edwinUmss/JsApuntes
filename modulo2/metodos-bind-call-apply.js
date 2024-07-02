@@ -28,4 +28,4 @@ function recuerdo (personaje) {
 
 recuerdo.call(caricatura, 'Vaca'); //Vaca y Pollito era mi caricatura favorida. Me encantaba ver las aventuras de Vaca
 recuerdo.bind(caricatura, 'Pollito')(); //Vaca y Pollito era mi caricatura favorida. Me encantaba ver las aventuras de Pollito
-//bind devueñve una funcion que se debe ejecutar con () al final
+//bind devuelve una funcion que se debe ejecutar con () al final
